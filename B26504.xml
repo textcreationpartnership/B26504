@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A congratulatory poem humbly offered to the King, upon His return home, after the taking of Namur. By Mr. Manning.</title>
+            <author>Manning, Mr. (Francis), fl. 1688-1716.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26504</idno><idno type="EEBO-CITATION">99828797</idno>
+  <idno type="VID">207595</idno>
+  <idno type="EEBO-PROQUEST">2240869599</idno>
+  
+            <idno type="STC">Wing M485</idno>
+            <idno type="PROQUEST">99828797</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828797e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26504)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207595)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1916:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A congratulatory poem humbly offered to the King, upon His return home, after the taking of Namur. By Mr. Manning.</title>
+                  <author>Manning, Mr. (Francis), fl. 1688-1716.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Peter Buck, at the sign of the Temple, near Temple-Bar in Fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">English poetry --  Early modern, 1500-1700.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207595:1"/>
+            <pb facs="tcp:207595:1"/>
+            <p>A Congratulatory Poem: Humbly offered to the KING, UPON His Return Home, After the Taking of NAMUR.</p>
+            <p>By Mr. <hi>MANNING.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>O Fama ingens, ingentior Armis,</hi>
+               </l>
+               <l>
+                  <hi>Justitiaene prius mirer, Belline Laborum?</hi>
+               </l>
+               <bibl>Virg. Aeneid. lib. xi.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Peter Buck,</hi> at the Sign of the <hi>Temple,</hi> near <hi>Temple-Bar</hi> in <hi>Fleetstreet,</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:207595:2"/>
+            <pb n="1" facs="tcp:207595:2"/>
+            <head>To the KING, UPON His Return Home after the Taking of <hi>NAMƲR.</hi>
+            </head>
+            <lg>
+               <l>AT length bright Day succeeds the Shades of Night,</l>
+               <l>And <hi>Sol</hi> appears in his own Orb of Light.</l>
+               <l>Propitious Heaven with an indulgent Care,</l>
+               <l>Sends home a Monarch to dispel our Fear.</l>
+               <l>A Fear, we might so justly entertain,</l>
+               <l>For where's our Union, when you cease to reign?</l>
+               <l>Not us alone your sacred Life secures,</l>
+               <l>The Fate of <hi>Europe</hi> is concern'd in Yours.</l>
+               <l>All other Lives but single Comforts be,</l>
+               <l>You live to save the World from Tyranny.</l>
+               <l>Such <hi>Theseus</hi> was, and such <hi>Alcides</hi> aim,</l>
+               <l>The fall of Tyrants was their rise in Fame.</l>
+               <l>Such the brave <hi>MAƲRICE,</hi> of late Memory,</l>
+               <l>That wondrous Man, who made his Country free.</l>
+               <l>No wild Ambition urges them to War,</l>
+               <l>No Thirst of Blood, or Profit makes the jar:</l>
+               <l>'Tis Vertues self, that ne're Repulse admits,</l>
+               <l>And in untainted Honours firmly sits;</l>
+               <l>Nor ever has respect to Dignities,</l>
+               <l>Exalted with the Noise of Vulgar Cries.</l>
+            </lg>
+            <lg>
+               <l>If to restore one's Country to its Peace,</l>
+               <l>And all its Freedoms nobly to increase,</l>
+               <l>Be made a Height of Vertue and Renown,</l>
+               <l>As none will ever make a doubt to own:</l>
+               <pb n="2" facs="tcp:207595:3"/>
+               <l>What must yours be, and what proportion bear,</l>
+               <l>That has been active in a larger Sphere?</l>
+               <l>Not singly to your own you Safety send,</l>
+               <l>Your Charity doth far beyond extend:</l>
+               <l>Your prudent Care and Vigilance of State,</l>
+               <l>Has freed your Neighbours from approaching Fate.</l>
+               <l>Great Race! when Both such Preservations bring,</l>
+               <l>The Prince saves <hi>Holland,</hi> but the World the King.</l>
+               <l>Then live (Great Sir) your Lawrels to advance,</l>
+               <l>Go on to curb the towring Pride of <hi>France:</hi>
+               </l>
+               <l>
+                  <hi>Namur</hi> reduc'd by your Victorious Hand,</l>
+               <l>Shews all things possible, where You command.</l>
+               <l>A stronger Fort not <hi>Alexander</hi> won,</l>
+               <l>Nor could he boast his Work more bravely done.</l>
+               <l>All Arts of War he to Perfection knew,</l>
+               <l>His Courage steady, and his Conduct true,</l>
+               <l>Great force of Soul! The same appears in You.</l>
+               <l>A nobler Prize no History can find,</l>
+               <l>Obtain'd with utmost Gallantry of Mind.</l>
+               <l>Whilst the proud Foe, concern'd to save the Town,</l>
+               <l>With a puissant Army marches on:</l>
+               <l>Collecting all his Strength, and coming near,</l>
+               <l>Confess'd his Weakness, and agreed to Fear.</l>
+            </lg>
+            <lg>
+               <l>Since Victory to be attested loves,</l>
+               <l>Great reason 'twas, he should his Motto prove.</l>
+               <l>Secure of Time, of Numbers, and of Place,</l>
+               <l>He saw your Conquest, and his own Disgrace.</l>
+            </lg>
+            <lg>
+               <l>Proceed, my Muse, and with unspotted Truth,</l>
+               <l>Rehearse their Names, who signaliz'd their Youth,</l>
+               <l>And such, whose Ages are yet more advanc'd,</l>
+               <l>Give each that Praise, which Valour has inhanc'd.</l>
+            </lg>
+            <lg>
+               <l>Next to the King, whose Courage is supream,</l>
+               <l>Whom first of Men all Nations do esteem:</l>
+               <pb n="3" facs="tcp:207595:3"/>
+               <l>
+                  <hi>Bavaria,</hi> the Generous and Great,</l>
+               <l>The Empire's Safety, and the <hi>Spanish</hi> Fate.</l>
+               <l>See <hi>Vaudemont</hi> too, a valiant Prince, and Wife,</l>
+               <l>Famous in War, and skill'd in Victories.</l>
+               <l>His late Retreat, so very finely done,</l>
+               <l>At least is equal to a Battel won.</l>
+               <l>The brave <hi>Athlone,</hi> so well his Errand wrought,</l>
+               <l>That he possess'd those Avenues he sought:</l>
+               <l>In great Attempts so happy, that his Name,</l>
+               <l>Suffices to communicate his Fame.</l>
+               <l>
+                  <hi>Holstein</hi> and <hi>Wirtemberg</hi> are seen from far</l>
+               <l>With <hi>Overkirk,</hi> all mighty Men in War.</l>
+               <l>Among the English Hero's <hi>Cutts</hi> appears,</l>
+               <l>Forward in Dangers, and the last in Fears:</l>
+               <l>Observe his Air, how fiercely he disdains</l>
+               <l>The Canon's Fury, and the Lodgment gains.</l>
+               <l>
+                  <hi>Ormond</hi> the Bold, the Generous, and Wise,</l>
+               <l>Lays a just Title to his share of Praise:</l>
+               <l>And <hi>Portland</hi> too, whose Goodness all commend,</l>
+               <l>That faithful Man, and most unequall'd Friend.</l>
+               <l>Let <hi>Cohorn, Ramsey, Swerin</hi> and <hi>La Cave,</hi>
+               </l>
+               <l>Compose the Rear of Hero's, whilst we leave</l>
+               <l>The brave <hi>Rivera</hi> honour'd in his Grave.</l>
+            </lg>
+            <lg>
+               <l>Your Pardon (Sir) if I presume to name</l>
+               <l>Four more, no ways inferior in Fame,</l>
+               <l>Who, tho' they acted in a lower Sphere,</l>
+               <l>Do well deserve to be inserted here:</l>
+               <l>Brave <hi>Webb</hi> and <hi>Windsor, Stanhope, Codrington,</hi>
+               </l>
+               <l>All young, all gallant Men, of high Renown,</l>
+               <l>So Fought, that if old <hi>Homer</hi> had been there,</l>
+               <l>To celebrate their Fame, had been his Care.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Namur</hi> subdued to all the World is spread,</l>
+               <l>What Bays are wanting to adorn your Head?</l>
+               <pb n="4" facs="tcp:207595:4"/>
+               <l>This was a finish'd Stroak, a sure Presage</l>
+               <l>Of coming Glory, and of conquer'd Rage.</l>
+               <l>Let <hi>Boileau</hi> now, that Parasite of Gain,</l>
+               <l>Bend all the force and beauty of his Brain,</l>
+               <l>Consult his Gods with Legs and Arms across,</l>
+               <l>To know the cause of this unhappy Loss.</l>
+               <l>Such Walls they built no Human Art could frame,</l>
+               <l>Impregnable was the least fitting Name:</l>
+               <l>But see! the Gods do their own Work decline,</l>
+               <l>And fifteen thousand Men the Town resign.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Neptune</hi> and <hi>Sol</hi> deserve his Trust no more,</l>
+               <l>They run in Debt, but never pay the Score</l>
+               <l>
+                  <hi>Boileau,</hi> next Year on safer Gods rely,</l>
+               <l>Or <hi>Dinant</hi> shares the fatal Destiny.</l>
+            </lg>
+            <lg>
+               <l>You (Sir) a better Deity implore,</l>
+               <l>Great Providence you wisely put before</l>
+               <l>All Human Wisdom, frail in every part:</l>
+               <l>You conquer Towns with a Religious Dart.</l>
+               <l>Let <hi>Louis</hi> boast of exquisite <hi>Vauban,</hi>
+               </l>
+               <l>
+                  <hi>Megrigny</hi> too get all the Praise he can:</l>
+               <l>Let Mareschals of <hi>France</hi> his Armies lead,</l>
+               <l>With hopes of Conquest his Ambition feed:</l>
+               <l>
+                  <hi>Des-Preaux</hi> unite the <hi>Sambre</hi> and the <hi>Maes,</hi>
+               </l>
+               <l>And still deserve for Flattery the Bays:</l>
+               <l>Both shall your Armies pass, such Pow'r is given</l>
+               <l>To th' cause of Nations, and the cause of Heaven.</l>
+            </lg>
+            <lg>
+               <l>When <hi>Villeroy</hi> upon discretion takes</l>
+               <l>Two small unvalued <note n="*" place="margin">Dixmuyde and Deynse.</note> Garrisons, and breaks</l>
+               <l>The common Use and Articles of War,</l>
+               <l>Abusing those, who are bereft of Power,</l>
+               <l>Methinks I see a great, impending change,</l>
+               <l>For, Honour gone, no Accident is strange.</l>
+               <l>When once a Foe makes use of mean Designs,</l>
+               <l>His own Affairs in poor condition finds.</l>
+            </lg>
+            <pb n="5" facs="tcp:207595:4"/>
+            <lg>
+               <l>The Forts thus taken by this wondrous Chief,</l>
+               <l>Justice and Art combine for their Relief.</l>
+               <l>Your Conduct (Sir) so opportunely shewn,</l>
+               <l>Obtains their Liberty and safe Return.</l>
+            </lg>
+            <lg>
+               <l>Where Valour and true Policy are joyn'd,</l>
+               <l>What may we not expect from such a Mind?</l>
+               <l>The one directs to great and useful things,</l>
+               <l>Whilst t'other executes th' advice it brings.</l>
+            </lg>
+            <lg>
+               <l>In You these happy Qualities are found,</l>
+               <l>Where Royal Grace and Clemency abound:</l>
+               <l>Where every Vertue has its residence,</l>
+               <l>And each Misfortune a secure defence:</l>
+               <l>Born to oblige and recommend this Age,</l>
+               <l>In spite of Malice, and in spite of Rage.</l>
+               <l>You reign o'er those, whom Sense and Honour tye,</l>
+               <l>The Beast will have a Brutal liberty:</l>
+               <l>But if exorbitant and wild he grows,</l>
+               <l>You know your Power and can see your Foes.</l>
+               <l>No Government was ever half so mild,</l>
+               <l>Your Mercy doth above your Justice weild.</l>
+               <l>So smooth each Path, and so serene its Course,</l>
+               <l>So just your Limits, without Fraud or Force,</l>
+               <l>That all confess their Happiness is true,</l>
+               <l>And see the Golden Age renew'd by You.</l>
+            </lg>
+            <lg>
+               <l>Excellent Prince! who dost ascribe each Praise</l>
+               <l>To him, who can reduce, and great ones raise.</l>
+               <l>His Angel 'twas, who did before you move,</l>
+               <l>And helpt you to subdue the Wall of <note n="*" place="margin">The King of <hi>France,</hi> whom <hi>Boileau</hi> com<g ref="char:EOLhyphen"/>pares to <hi>Ju<g ref="char:EOLhyphen"/>piter.</hi>
+                  </note>
+                  <hi>Jove.</hi>
+               </l>
+               <l>Tam'd savage Hearts, and made Affections bend,</l>
+               <l>As Osiers do, saluted by the Wind.</l>
+               <l>You nothing own but Heaven's Instrument,</l>
+               <l>No Godhead You, but to assert One sent:</l>
+               <l>Such Grandeur, in the height of Victory,</l>
+               <l>Is scarcely seen with so much Modesty.</l>
+            </lg>
+            <pb n="6" facs="tcp:207595:5"/>
+            <lg>
+               <l>VVhat now remains, or can we wish for more,</l>
+               <l>Since you are landed on the <hi>British</hi> Shore?</l>
+               <l>The Darling's Life, secur'd from any fear,</l>
+               <l>Is not more welcome to a Mother's Ear.</l>
+               <l>The common People Acclamations bring,</l>
+               <l>Accost your Chariot, and bless the King.</l>
+               <l>The Citizen remov'd from all his Frights,</l>
+               <l>Now decorates each spacious Street with Lights.</l>
+               <l>The Merchant too his grateful Joy relates,</l>
+               <l>And gives You Thanks for <hi>Russel</hi> in the <hi>Streights.</hi>
+               </l>
+               <l>The busy Man of Law suspends a while</l>
+               <l>His Application, and consents to smile.</l>
+               <l>The Priest, whose Mind a sacred Fury burns,</l>
+               <l>Sings Hallelujahs for your Return.</l>
+               <l>The Courtier with obsequious Duty bows,</l>
+               <l>And gladly pays those Services he owes.</l>
+            </lg>
+            <lg>
+               <l>But most of all, <hi>Apollo</hi>'s humble Train</l>
+               <l>Revive their Numbers, and exert their Brain.</l>
+               <l>Your safe Return's so powerful a Theme,</l>
+               <l>That Silence is interpreted a Crime.</l>
+               <l>But when you add such store of Argument,</l>
+               <l>And Valour's answer'd by so just event,</l>
+               <l>VVhat Man is able to delay your Bays,</l>
+               <l>Or not declare so merited a Praise?</l>
+            </lg>
+            <lg>
+               <l>Thrice happy Monarch! whom thy Subjects love,</l>
+               <l>VVhose equal Government they daily prove.</l>
+               <l>Thrice happy Isle! secure from VVar's alarms,</l>
+               <l>Thy Prince's absence, and intestine harms.</l>
+            </lg>
+            <lg>
+               <l>Your fuller Praise let <hi>DORSET</hi>'s Pen rehearse,</l>
+               <l>And undertake a Song in juster Verse.</l>
+               <l>He (Sir) can represent with noble Fire</l>
+               <l>A Hero, whom I reach but to admire.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207595:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
